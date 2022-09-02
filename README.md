@@ -2,7 +2,7 @@
 
 **Desafio de projeto** 
   
-Refinando um projeto conceitual de banco de dados de um e-commerce.  
+01-Refinando um projeto conceitual de banco de dados de um e-commerce.  
 Foi adicionado no projeto os seguintes pontos:  
 
 * Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações; 
